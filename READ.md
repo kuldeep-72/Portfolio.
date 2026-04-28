@@ -1,1 +1,1 @@
-![Uploading portfolio.png.jpg…]()
+![Upload portfolio.png.jpg…]()
