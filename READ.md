@@ -1,2 +1,2 @@
 USER INTERFACE
-portfolio.png.jpg
+portfolio.jpg
