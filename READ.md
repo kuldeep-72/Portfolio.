@@ -1,2 +1,0 @@
-USER INTERFACE
-portfolio.png
